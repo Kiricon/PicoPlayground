@@ -7,5 +7,6 @@
     "python.autoComplete.typeshedPaths":  [".micropy/micropython-rp2-1_13-290/frozen", ".micropy/BradenM-micropy-stubs-e1b8ce6/frozen", ".micropy/micropython-rp2-1_13-290/stubs", ".micropy/PicoPrograms"],
     "python.analysis.typeshedPaths":  [".micropy/micropython-rp2-1_13-290/frozen", ".micropy/BradenM-micropy-stubs-e1b8ce6/frozen", ".micropy/micropython-rp2-1_13-290/stubs", ".micropy/PicoPrograms"],
 
-    "python.linting.pylintEnabled": true
+    "python.linting.pylintEnabled": true,
+    "python.languageServer": "Microsoft"
 }
